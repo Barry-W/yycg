@@ -50,7 +50,7 @@
 		<dependency>
 			<groupId>com.oracle</groupId>
 			<artifactId>ojdbc14</artifactId>
-			<version>10.2.0.1.0</version>
+			<version>10.2.0.2</version>
 			<scope>runtime</scope>
 		</dependency>
 		<!-- servlet-api 编译时用，发布后不用 -->
